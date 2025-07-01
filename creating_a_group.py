@@ -40,5 +40,3 @@ if __name__ == "__main__":
     print("Все группы:")
     print(get_all_groups())
 
-    print("\nСоздание новой группы:")
-    create_group(name="Test Group", gn="TG", cmd="create")
