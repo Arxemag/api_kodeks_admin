@@ -1,0 +1,20 @@
+Для создания пользователя мы должны обратиться к /users/users и передать туда параметры для создания пользователя.
+
+uid	testpo
+psw	12345
+name	Тест Тестович Тестовый
+org	Выдуманное
+pos	Аналогичная
+mail	chtototam@may.ru
+telephon	+9992124345
+end
+grp	4
+grp	48
+grp	49
+grp	321
+grp	362
+set
+
+Выглядит это так = /users/user/uid=testpo&psw=12345&name=Тест Тестович Тестовый9&org=Выдуманное&pos=Аналогичная&mail=chtototam@may.ru&telephon=+9992124345&end=&grp=4&grp=48&grp=49&grp=321&grp=362&set=
+
+Вопрос, где взять номера групп, очень просто = читаем в creating a group.txt
