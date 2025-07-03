@@ -49,7 +49,7 @@ class KodeksGroupLinker:
             "trademark": "1",
             "setauth": "set",
             "auth_type": "1",
-            "grps_1": json.dumps({"kw": group_ids}),
+            "grps_1": json.dumps({"kw": updated_groups}),
             "grps_5": json.dumps({"kw": updated_groups}),
             "grps_3": "",
             "Support": "",
