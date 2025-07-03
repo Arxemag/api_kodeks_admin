@@ -207,14 +207,3 @@ def full_flow(org_name: str, login: str, password: str):
         admin.create_user(login, password, group_id)
 
     admin.log("✅ Вся процедура выполнена.")
-
-
-# Точка входа в программу
-if __name__ == "__main__":
-    # Тестовые данные
-    organization = "Пустышка"  # Название организации/группы
-    login = "Pustishov"  # Логин пользователя
-    password = "12345"  # Пароль пользователя
-
-    # Запускаем полный процесс
-    full_flow(organization, login, password)
