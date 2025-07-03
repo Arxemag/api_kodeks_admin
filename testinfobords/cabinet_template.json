@@ -1,0 +1,259 @@
+{
+  "id": "P011A",
+  "hiddenOnStartPage": false,
+  "title": "Тестовый кабинет Попов",
+  "palette": {
+    "primary": {
+      "main": "#FFA500",
+      "dark": "#184b38",
+      "text": "#000000",
+      "link": "#1A88D6"
+    },
+    "secondary": {
+      "main": "#ffffff",
+      "dark": "#ffffff",
+      "text": "#000000",
+      "link": "#1A88D6"
+    }
+  },
+  "logo": "",
+  "widgets": [
+    {
+      "isSpecial": false,
+      "position": "left",
+      "header": "Документированная информация СМК",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800444",
+          "title": "Документированная информация СМК",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800425",
+          "title": "Перечень документированной информации СМК",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800427",
+          "title": "Реестр регламентов процессов для целей Системы менеджмента качества",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "right",
+      "header": "Ресертификационные и надзорные аудиты",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800445",
+          "title": "Ресертификационные и надзорные аудиты",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "left",
+      "header": "Образцы СМК для лабораторий",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=747418175",
+          "title": "Образцы СМК для лабораторий",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "right",
+      "header": "Законодательные требования системы менеджмента качества",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=1200124394&point=mark=108GH472N64PUP10GAMSG261B8GD3AQ17NF3VTTHNH0000NC70078DUC",
+          "title": "ГОСТ Р 59424-2021 Руководящие указания по дистанционному проведению анализа состояния производства и аудита систем менеджмента",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=1200179328&point=mark=03A0OM1000002D0DUIQKP02QTFQV00003C8132D9DK3E3PV7T11CKT1S",
+          "title": "ГОСТ Р ИСО 19011-2021 Оценка соответствия. Руководящие указания по проведению аудита систем менеджмента",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=1200124394",
+          "title": "ГОСТ Р ИСО 9001-2015 Системы менеджмента качества. Требования (Переиздание)",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "left",
+      "header": "Документация требующая пересмотра",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800450",
+          "title": "На пересмотр",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800458",
+          "title": "Пересмотр просрочен",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "header": "Документация измененная за последний месяц",
+      "list": {
+        "doc": 816800460,
+        "form": 0,
+        "holder": 0,
+        "limit": 5,
+        "sort": ""
+      },
+      "counter": 0,
+      "isSpecial": false,
+      "description": "",
+      "position": "right"
+    },
+    {
+      "header": "Внутренние аудиты",
+      "counter": 0,
+      "isSpecial": false,
+      "documents": [
+        816800397,
+        1200072909,
+        816800412,
+        816800414,
+        816800416,
+        816800429,
+        816800421,
+        816800423
+      ],
+      "description": "",
+      "limit": 20,
+      "position": "left"
+    },
+    {
+      "header": "Информирование и обучение персонала",
+      "list": {
+        "doc": 816800448,
+        "form": 0,
+        "holder": 0,
+        "limit": 6,
+        "sort": ""
+      },
+      "counter": 0,
+      "isSpecial": false,
+      "description": "",
+      "position": "right"
+    },
+    {
+      "isSpecial": false,
+      "position": "left",
+      "header": "Моя библиотека по СМК",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800449",
+          "title": "Моя библиотека по СМК",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "right",
+      "header": "Анализ и улучшение СМК",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800446",
+          "title": "Анализ и улучшение СМК",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "left",
+      "header": "Планы и отчеты",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800416",
+          "title": "Анализ системы менеджмента качества со стороны руководства 2021 год",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800429",
+          "title": "План внутреннего аудита на 2021 г",
+          "about": ""
+        },
+        {
+          "href": "http://suntd.kodeks.expert:1212/d?nd=816800421",
+          "title": "Отчет по результатам инспекционной проверки 2020",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "isSpecial": false,
+      "position": "right",
+      "header": "Полезные ссылки",
+      "description": "",
+      "isTitleLink": false,
+      "links": [
+        {
+          "href": "https://rospotrebnadzor.ru/",
+          "title": "Федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека",
+          "about": ""
+        },
+        {
+          "href": "https://bs-normativ.ru/products/pishchevaya-promyshlennost#/",
+          "title": "ТехЭксперт: пищевая промышленность",
+          "about": ""
+        }
+      ]
+    },
+    {
+      "header": "Юридическая информация",
+      "counter": 3,
+      "isSpecial": false,
+      "documents": [
+        901802257
+      ],
+      "description": "",
+      "limit": 20,
+      "position": "left"
+    }
+  ],
+  "author": "kodeks",
+  "backgroundFilename": "backgroud.png",
+  "logoFilename": "logo.png",
+  "searchString": {
+    "header": "",
+    "palette": {
+      "colorWidget": "#F8F8F8",
+      "colorText": "#4e4e4e",
+      "colorIcon": "#444444",
+      "colorInput": "#e5e5e5",
+      "colorButton": "#E36E26",
+      "colorButtonText": "#ffffff"
+    }
+  }
+}
